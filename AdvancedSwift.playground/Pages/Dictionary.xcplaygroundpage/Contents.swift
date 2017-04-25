@@ -1,7 +1,4 @@
-//: [Previous](@previous)
-
 import Foundation
-
 var str = "Hello, dictionary"
 
 print(str)

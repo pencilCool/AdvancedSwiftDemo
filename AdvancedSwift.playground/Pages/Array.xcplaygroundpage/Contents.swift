@@ -1,6 +1,4 @@
-//: Playground - noun: a place where people can play
-
-import UIKit
+import Foundation
 print("Hello World")
 //MARK: Arrays and Mutability
 let  fibs = [0, 1, 1, 2, 3, 5]
@@ -385,7 +383,7 @@ extension Array where Element: Equatable {
             idx in self[idx] == element
             }.forEach
             { idx in
-                return idx
+                return  idx
         }
         return nil
     } }
