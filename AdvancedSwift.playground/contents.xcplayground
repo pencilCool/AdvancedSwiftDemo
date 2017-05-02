@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<playground version='6.0' target-platform='ios' display-mode='raw' executeOnSourceChanges='false'>
+<playground version='6.0' target-platform='ios' display-mode='raw'>
     <pages>
         <page name='Array'/>
         <page name='Dictionary'/>
@@ -9,5 +9,9 @@
         <page name='Sentinel Values'/>
         <page name='Solving the Magic Value Problem with Enumerations'/>
         <page name='A Tour of Optional Techniques'/>
+        <page name='When to force-unwrap'/>
+        <page name='Struct and Class'/>
+        <page name='Mutable'/>
+        <page name='Struct'/>
     </pages>
 </playground>
